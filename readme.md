@@ -8,5 +8,5 @@
 <p>localhost/api/companies(или users) // это создать новый экземпляр</p>
 <h4>PUT</h4>
 <p>localhost/api/companies(или users)/{companyId}(или {usersId})  // это редактирование</p>
-<h4>DELETE<h4>
+<h4>DELETE</h4>
 <p>localhost/api/companies(или users)/{companyId}(или {usersId})  // это удаление</p>
